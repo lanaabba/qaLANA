@@ -7,7 +7,7 @@ if (userName) {
 }
  
 
- let student = prompt(userName + `Please enter your mark !`);
+ let student = prompt( userName + `Please enter your mark !`);
  let marks=Math.floor(student );
 console.log(marks)
 
